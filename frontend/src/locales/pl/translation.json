@@ -1,0 +1,18 @@
+{
+  "app": {
+    "logout": "Wyloguj się",
+    "navigation": "Navigacja",
+    "home": "Strona Główna",
+    "searchMotorcycles": "Wyszukaj Motocykle",
+    "addMotorcycle": "Dodaj Motocykl",
+    "register": "Zarejestruj się",
+    "login": "Zaloguj się",
+    "viewAllUsers": "Zobacz Wszystkich Użytkowników",
+    "switchLanguage": "Zmień język:"
+  },
+  "home": {
+    "welcome": "Witamy w MotoPedia!",
+    "description": "MotoPedia to Twoje centrum informacji o motocyklach.",
+    "searchButton": "Wyszukaj Motocykle"
+  }
+}

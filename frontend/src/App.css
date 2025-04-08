@@ -1,0 +1,73 @@
+.mp-header {
+    background-image: url('https://images.unsplash.com/photo-1558980664-2cd663cf8dde?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 870w');
+    height: 200px;
+    background-size: cover;
+    background-position: 0 -60px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mp-header h1 {
+    color: white;
+    font-family: 'Metal Mania', cursive;
+}
+
+.mp-nav {
+    width: 200px;
+    background-color: #333;
+    color: gray;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.mp-nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.mp-nav ul li {
+    margin-bottom: 20px;
+}
+
+.mp-nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.logout-button {
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.mp-nav ul li a:hover {
+    color: #ddd;
+}
+.mp-main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: space-between;
+}
+body {
+    font-family: 'Overpass', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+.mp-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.mp-footer {
+    background-color: #333;
+    color: gray;
+    text-align: center;
+    padding: 20px;
+}

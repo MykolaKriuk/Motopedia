@@ -1,0 +1,18 @@
+{
+  "app": {
+    "logout": "Log out",
+    "navigation": "Navigation",
+    "home": "Home",
+    "searchMotorcycles": "Search Motorcycles",
+    "addMotorcycle": "Add Motorcycle",
+    "register": "Register",
+    "login": "Login",
+    "viewAllUsers": "View All Users",
+    "switchLanguage": "Switch Language:"
+  },
+  "home": {
+    "welcome": "Welcome to MotoPedia!",
+    "description": "MotoPedia is your one-stop destination for all motorcycle-related information.",
+    "searchButton": "Search Motorcycles"
+  }
+}

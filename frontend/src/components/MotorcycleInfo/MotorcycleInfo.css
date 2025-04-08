@@ -1,0 +1,84 @@
+.motorcycle-info-container {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    box-sizing: border-box;
+    position: relative;
+}
+
+h2 {
+    text-align: left;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1rem;
+    color: #555;
+    margin: 10px 0;
+}
+
+p strong {
+    color: #333;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.loading-message {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.edit-button {
+    display: inline-block;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.edit-button:hover {
+    background-color: #555;
+    cursor: pointer;
+}
+
+.editors-button {
+    display: inline-block;
+    position: absolute;
+    bottom: 60px;
+    right: 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.editors-button:hover {
+    background-color: #555;
+    cursor: pointer;
+}
